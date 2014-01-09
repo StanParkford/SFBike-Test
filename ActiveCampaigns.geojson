@@ -1,7 +1,30 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {    
+    {   
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Area": "Polk Counts"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4186372756958,
+            37.78034830365159
+          ],
+          [
+            -122.42069721221922,
+            37.79055715554363
+          ]
+        ]
+      }
+    }
+  ]
+} ,{
       "type": "Feature",
       "properties": {
         "Count Date": "12/17/2013",
