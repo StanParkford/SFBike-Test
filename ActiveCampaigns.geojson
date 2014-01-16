@@ -78,6 +78,20 @@
     {
       "type": "Feature",
       "properties": {
+        "Count Date": "1/14/14",
+        "Time Frame": "8:00-10:00 AM",
+        "TOTAL COUNT": 313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41940975189208,
+          37.783672270721034
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
           "Description" : "Polk Street Project - From McAllister to Union",
           "Internal Page": "https://sfbike.org/?polk",
           "Official Project Name": "Polk Street Improvement Project"
